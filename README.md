@@ -8,4 +8,4 @@
 
 <hr>
 
-<p align= center>Feito por <strong>Juliana Izac</strong></p>
+<p align= center>Developed by <strong>Juliana Izac</strong></p>
